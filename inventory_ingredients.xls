@@ -1,0 +1,28 @@
+Item_ID,Ingredient,Quantity_Per_Item,Stock_Level
+1,Tomato Sauce,100,2000
+1,Cheese,150,1500
+1,Basil,10,500
+2,Tomato Sauce,100,2000
+2,Cheese,150,1600
+2,Salami,50,600
+3,Tomato Sauce,100,1800
+3,Vegan Cheese,150,1400
+3,Mushrooms,50,500
+3,Bell Peppers,30,400
+4,Pasta,100,1000
+4,Pancetta,80,800
+4,Tomato Sauce,100,1500
+5,Pasta,100,1100
+5,Pancetta,80,850
+5,Eggs,2,400
+6,Pasta,100,900
+6,Ground Beef,120,600
+6,Tomato Sauce,100,1300
+7,Flour,50,600
+7,Olive Oil,30,400
+7,Rosemary,5,200
+8,Coca-Cola,1,500
+9,Mascarpone,100,200
+9,Coffee,50,300
+10,Coffee,30,600
+11,Water,1,1000

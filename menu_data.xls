@@ -1,0 +1,12 @@
+Item_ID,Item_Name,Category,Price,Available
+1,Margherita,Pizza,32,True
+2,Diavola,Pizza,35,True
+3,Vegana,Pizza,36,True
+4,Amatriciana,Pasta,37,True
+5,Carbonara,Pasta,38,True
+6,Bolognese,Pasta,39,True
+7,Focaccia,Appetizer,15,True
+8,Coca-Cola,Beverage,10,True
+9,Tiramisu,Dessert,18,True
+10,Espresso,Beverage,12,True
+11,Water,Beverage,5,True
